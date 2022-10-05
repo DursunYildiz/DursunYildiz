@@ -5,6 +5,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=DursunYildiz" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=radical&hide_border=true&username=DursunYildiz" height="150" alt="languages graph"  />
+  <img align="right" height="150" src="https://avatars.githubusercontent.com/u/55432831?s=400&u=cf2a291e5b85cee8fc3fbc8563cb26ea45c7484b&v=4"  />
 </div>
 
 ###
