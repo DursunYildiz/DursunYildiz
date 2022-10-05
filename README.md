@@ -22,11 +22,7 @@
   </a>
 </div>
 
-###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/55432831?s=400&u=cf2a291e5b85cee8fc3fbc8563cb26ea45c7484b&v=4"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
