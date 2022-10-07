@@ -24,9 +24,9 @@
 
 
 
-<div align="left" style="pointer-events:none !important">
+<div align="left">
 
-    <picture>
+  <picture>
   <img alt="Image Alt Text" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" width="42">
 </picture>
   <picture>
